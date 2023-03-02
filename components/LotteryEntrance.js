@@ -82,7 +82,7 @@ export default function LotteryEntrance() {
     }
 
     return (
-        <div className="p-5">
+        <div className="p-5 bg-blue-700">
             Hi from lottery entrance!
             {raffleAddress ? (
                 <div>
